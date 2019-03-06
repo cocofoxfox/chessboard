@@ -1,0 +1,13 @@
+table, tr, td {
+    border: 1px solid black;
+  }
+.table-cell {
+    height: 50px;
+    width: 50px;
+}
+.black-cell{
+    background-color: black;
+}
+
+table {
+}
