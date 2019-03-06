@@ -42,9 +42,7 @@ function createBoard() {
     table.setAttribute("border", "1");
 }
 
-var state = false 
-var currentPiece;
-var currentCell;
+
 var columnNumber = parseInt(document.getElementById('row-number').value);
 var cells = document.getElementsByClassName('table-cell')
 
